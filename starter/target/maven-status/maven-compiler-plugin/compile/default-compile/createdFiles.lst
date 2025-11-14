@@ -1,0 +1,14 @@
+com\company\common\exception\exception\ForbiddenAccessException.class
+com\company\common\exception\exception\ServiceUnavailableException.class
+com\company\common\exception\exception\ConflictException.class
+com\company\common\exception\annotation\EnableGlobalExceptionHandler.class
+com\company\common\exception\handler\GlobalExceptionHandler.class
+com\company\common\exception\config\GlobalExceptionAutoConfiguration.class
+com\company\common\exception\exception\BusinessException.class
+com\company\common\exception\exception\InvalidRequestException.class
+com\company\common\exception\exception\ResourceNotFoundException.class
+com\company\common\exception\util\TraceIdFilter.class
+com\company\common\exception\exception\TooManyRequestsException.class
+com\company\common\exception\exception\UnauthorizedAccessException.class
+com\company\common\exception\exception\BadRequestException.class
+com\company\common\exception\model\ErrorResponse.class
