@@ -1,73 +1,22 @@
-2025-11-14 11:28:21 INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
-2025-11-14 11:28:21 INFO  com.company.demo.DemoApplication - Starting DemoApplication using Java 17.0.12 with PID 9696 (D:\final-corrected-starter-demo\demo\target\classes started by HP in D:\final-corrected-starter-demo\demo)
-2025-11-14 11:28:21 INFO  com.company.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
-2025-11-14 11:28:22 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
-2025-11-14 11:28:22 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
-2025-11-14 11:28:22 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-2025-11-14 11:28:22 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
-2025-11-14 11:28:22 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2025-11-14 11:28:22 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 907 ms
-2025-11-14 11:28:23 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
-2025-11-14 11:28:23 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
-2025-11-14 11:28:23 INFO  com.company.demo.DemoApplication - Started DemoApplication in 1.695 seconds (process running for 1.99)
-2025-11-14 11:28:30 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2025-11-14 11:28:30 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
-2025-11-14 11:28:30 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
-2025-11-14 11:31:27 INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
-2025-11-14 11:31:27 INFO  com.company.demo.DemoApplication - Starting DemoApplication using Java 17.0.12 with PID 12696 (D:\final-corrected-starter-demo\demo\target\classes started by HP in D:\final-corrected-starter-demo\demo)
-2025-11-14 11:31:27 INFO  com.company.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
-2025-11-14 11:31:28 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
-2025-11-14 11:31:28 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
-2025-11-14 11:31:28 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-2025-11-14 11:31:28 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
-2025-11-14 11:31:28 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2025-11-14 11:31:28 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 804 ms
-2025-11-14 11:31:28 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
-2025-11-14 11:31:28 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
-2025-11-14 11:31:28 INFO  com.company.demo.DemoApplication - Started DemoApplication in 1.534 seconds (process running for 1.828)
-2025-11-14 11:31:38 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2025-11-14 11:31:38 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
-2025-11-14 11:31:38 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
-2025-11-14 11:35:30 INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
-2025-11-14 11:35:30 INFO  com.company.demo.DemoApplication - Starting DemoApplication using Java 17.0.12 with PID 1996 (D:\final-corrected-starter-demo\demo\target\classes started by HP in D:\final-corrected-starter-demo\demo)
-2025-11-14 11:35:30 INFO  com.company.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
-2025-11-14 11:35:31 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
-2025-11-14 11:35:31 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
-2025-11-14 11:35:31 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-2025-11-14 11:35:31 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
-2025-11-14 11:35:31 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2025-11-14 11:35:31 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 964 ms
-2025-11-14 11:35:31 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
-2025-11-14 11:35:31 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
-2025-11-14 11:35:31 INFO  com.company.demo.DemoApplication - Started DemoApplication in 1.758 seconds (process running for 2.041)
-2025-11-14 11:35:45 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2025-11-14 11:35:45 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
-2025-11-14 11:35:45 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
-2025-11-14 14:17:21 INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
-2025-11-14 14:17:21 INFO  com.company.demo.DemoApplication - Starting DemoApplication using Java 17.0.12 with PID 16024 (D:\final-corrected-starter-demo\demo\target\classes started by HP in D:\final-corrected-starter-demo\demo)
-2025-11-14 14:17:21 INFO  com.company.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
-2025-11-14 14:17:22 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
-2025-11-14 14:17:22 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
-2025-11-14 14:17:22 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-2025-11-14 14:17:22 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
-2025-11-14 14:17:22 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2025-11-14 14:17:22 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1360 ms
-2025-11-14 14:17:23 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
-2025-11-14 14:17:23 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
-2025-11-14 14:17:23 INFO  com.company.demo.DemoApplication - Started DemoApplication in 2.684 seconds (process running for 3.14)
-2025-11-14 14:22:05 INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
-2025-11-14 14:22:05 INFO  com.company.demo.DemoApplication - Starting DemoApplication using Java 17.0.12 with PID 19792 (D:\final-corrected-starter-demo\demo\target\classes started by HP in D:\final-corrected-starter-demo\demo)
-2025-11-14 14:22:05 INFO  com.company.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
-2025-11-14 14:22:06 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
-2025-11-14 14:22:06 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
-2025-11-14 14:22:06 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-2025-11-14 14:22:06 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
-2025-11-14 14:22:06 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2025-11-14 14:22:06 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 674 ms
-2025-11-14 14:22:06 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
-2025-11-14 14:22:06 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
-2025-11-14 14:22:06 INFO  com.company.demo.DemoApplication - Started DemoApplication in 1.279 seconds (process running for 1.46)
-2025-11-14 14:22:14 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2025-11-14 14:22:14 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
-2025-11-14 14:22:14 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
-2025-11-14 14:22:15 INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 426 ms
+2025-11-15 11:52:57 INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2025-11-15 11:52:57 INFO  com.company.demo.DemoApplication - Starting DemoApplication using Java 17.0.12 with PID 8832 (D:\final-corrected-starter-demo\demo\target\classes started by HP in D:\final-corrected-starter-demo\demo)
+2025-11-15 11:52:57 INFO  com.company.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-11-15 11:52:57 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-11-15 11:52:57 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-11-15 11:52:57 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2025-11-15 11:52:57 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
+2025-11-15 11:52:57 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-11-15 11:52:57 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 654 ms
+2025-11-15 11:52:57 INFO  c.c.c.e.config.GlobalExceptionAutoConfiguration - ? Global Exception Handling Starter: Auto-configuration initialized successfully.
+2025-11-15 11:52:57 INFO  c.c.c.e.config.GlobalExceptionAutoConfiguration - ? Registering TraceIdFilter bean (traceId will be added to MDC)
+2025-11-15 11:52:57 INFO  c.c.c.e.config.GlobalExceptionAutoConfiguration - ? Registering GlobalExceptionHandler bean
+2025-11-15 11:52:58 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-11-15 11:52:58 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-11-15 11:52:58 INFO  com.company.demo.DemoApplication - Started DemoApplication in 1.251 seconds (process running for 1.445)
+2025-11-15 11:53:56 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-11-15 11:53:56 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-11-15 11:53:56 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-11-15 11:54:12 WARN  c.c.c.exception.handler.GlobalExceptionHandler - Handled Exception | type=ResourceNotFoundException | path=/api/users/999 | message=User 999 not found | traceId=7f433142-6868-4456-8bb3-c34940cb913d
+2025-11-15 11:54:12 WARN  c.c.c.exception.handler.GlobalExceptionHandler - Error occurred: status=404, error=Not Found, message=User 999 not found, path=/api/users/999, traceId=7f433142-6868-4456-8bb3-c34940cb913d
+2025-11-15 11:54:35 WARN  c.c.c.exception.handler.GlobalExceptionHandler - Handled Exception | type=InvalidRequestException | path=/api/users/0 | message=Invalid ID | traceId=b507e7e4-aa14-4581-80e8-772d2e100736
+2025-11-15 11:54:35 WARN  c.c.c.exception.handler.GlobalExceptionHandler - Error occurred: status=400, error=Bad Request, message=Invalid ID, path=/api/users/0, traceId=b507e7e4-aa14-4581-80e8-772d2e100736

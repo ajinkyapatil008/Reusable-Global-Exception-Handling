@@ -9,4 +9,12 @@ public record ErrorResponse(
         String message,
         String path,
         String traceId
-) {}
+) {
+        public String toLogString() {
+        return "status=" + status +
+                ", error=" + error +
+                ", message=" + message +
+                ", path=" + path +
+                ", traceId=" + traceId;
+    }
+}

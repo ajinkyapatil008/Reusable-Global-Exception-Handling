@@ -21,9 +21,13 @@ import com.company.demo.dto.UserRequest;
 
 import jakarta.validation.Valid;
 
+
 @RestController
 @RequestMapping("/api/users")
 public class UserController {
+
+    // private static final Logger log = LoggerFactory.getLogger(UserController.class);
+
 
     //GET Mapping
 
@@ -35,8 +39,11 @@ public class UserController {
 
     @GetMapping("/{id}")
     public ResponseEntity<String> get(@PathVariable int id){
-        if(id == 999)
+
+        if(id == 999){
+            // log.error("User {} not found", id);
             throw new ResourceNotFoundException("User 999 not found");
+        }
 
         if(id == 0)
             throw new InvalidRequestException("Invalid ID");
